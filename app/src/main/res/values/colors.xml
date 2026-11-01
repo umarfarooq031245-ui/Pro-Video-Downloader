@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="md_theme_primary">#6750A4</color>
+    <color name="md_theme_onPrimary">#FFFFFF</color>
+    <color name="md_theme_primaryContainer">#EADDFF</color>
+    <color name="md_theme_secondary">#625B71</color>
+    <color name="md_theme_background">#FFFBFE</color>
+
+    <!-- Phase 5: Premium Dark Design System -->
+    <color name="p5_bg">#0B1020</color>
+    <color name="p5_surface">#121A2B</color>
+    <color name="p5_surface_elevated">#1A2540</color>
+    <color name="p5_surface_pressed">#24314D</color>
+
+    <color name="p5_primary">#6485FF</color>
+    <color name="p5_primary_dark">#4263DB</color>
+    <color name="p5_secondary">#9B8AFF</color>
+    <color name="p5_accent">#43D9C5</color>
+
+    <color name="p5_text_primary">#F4F7FF</color>
+    <color name="p5_text_secondary">#A6B3CC</color>
+    <color name="p5_text_muted">#71809D</color>
+
+    <color name="p5_border">#293651</color>
+    <color name="p5_success">#39D9A2</color>
+    <color name="p5_warning">#FFC66D</color>
+    <color name="p5_error">#FF6B81</color>
+    <color name="p5_player_black">#05070D</color>
+
+    <!-- Phase 6: Premium Purple / Violet / Magenta on Deep Navy -->
+    <color name="p6_bg">#0A0D20</color>
+    <color name="p6_surface">#141938</color>
+    <color name="p6_card">#1A2044</color>
+    <color name="p6_border">#2F3763</color>
+
+    <color name="p6_violet">#8B5CF6</color>
+    <color name="p6_violet_dark">#6D28D9</color>
+    <color name="p6_magenta">#EC4899</color>
+    <color name="p6_magenta_dark">#BE185D</color>
+
+    <color name="p6_text_primary">#F5F3FF</color>
+    <color name="p6_text_secondary">#B3AED6</color>
+    <color name="p6_text_muted">#7E7AA3</color>
+</resources>

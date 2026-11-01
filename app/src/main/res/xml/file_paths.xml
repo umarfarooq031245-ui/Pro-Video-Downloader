@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- App-private downloads ONLY: getExternalFilesDir(DIRECTORY_DOWNLOADS)/ProVideoSaver.
+         Private Vault files are deliberately NOT exposed through the provider. -->
+    <external-files-path name="p5_downloads" path="Download/ProVideoSaver/" />
+</paths>

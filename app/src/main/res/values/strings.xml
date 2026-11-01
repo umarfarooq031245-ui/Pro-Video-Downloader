@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pro Video Downloader</string>
+    <string name="setup_ok">Build server setup OK — send Phase 1 code.</string>
+</resources>
